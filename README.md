@@ -22,6 +22,7 @@ You need to create a temporary directory somewhere. In the example below, we use
    cd /tmp/t5
    cp /usr/share/fonts/Type1/*.pf{a,b} .
    ./makeotf.sh
+```
 
 ### As root
 
@@ -31,8 +32,10 @@ You need to create a temporary directory somewhere. In the example below, we use
    mkfontscale
    mkfontdir
    fc-cache -f
+```
 
 ### As a regular user again
 
 ```bash
-  rm -r /tmp/t5
+   rm -r /tmp/t5
+```
