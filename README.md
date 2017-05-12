@@ -15,5 +15,5 @@ to use Type1_to_OTF.
 ## Usage instructions
 You need to create a temporary directory somewhere. In the example below, we use */tmp/t5*.
 ### As a regular user (not root)
-`mkdir /tmp/t5`
-`cd /tmp/t5`
+`mkdir /tmp/t5
+cd /tmp/t5`
