@@ -1,0 +1,80 @@
+[CharterBT-Bold]
+f=Bitstream Charter
+[CharterBT-BoldItalic]
+f=Bitstream Charter
+[CharterBT-Italic]
+f=Bitstream Charter
+[CharterBT-Roman]
+f=Bitstream Charter
+[Courier]
+f=Courier
+[Courier-Bold]
+f=Courier
+[Courier-BoldItalic]
+f=Courier
+[Courier-Italic]
+f=Courier
+[Courier10PitchBT-Roman]
+f=Bitstream Courier
+[Courier10PitchBT-Bold]
+f=Bitstream Courier
+[Courier10PitchBT-BoldItalic]
+f=Bitstream Courier
+[Courier10PitchBT-Italic]
+f=Bitstream Courier
+[Utopia-Regular]
+f=Adobe Utopia
+[Utopia-Italic]
+f=Adobe Utopia
+[Utopia-BoldItalic]
+f=Adobe Utopia
+[Utopia-Bold]
+f=Adobe Utopia
+[CenturySchL-Roma]
+f=schoolbook
+[CenturySchL-Bold]
+f=schoolbook
+[CenturySchL-BoldItal]
+f=schoolbook
+[CenturySchL-Ital]
+f=schoolbook
+[URWGothicL-Book]
+f=gothic
+[URWGothicL-Demi]
+f=gothic
+[CenturySchL-Roma]
+f=schoolbook
+[CenturySchL-Bold]
+f=schoolbook
+[URWBookmanL-Ligh]
+f=bookman
+[URWBookmanL-DemiBold]
+f=bookman
+[NimbusSanL-Regu]
+f=nimbus sans
+[NimbusSanL-Bold]
+f=nimbus sans
+[NimbusSanL-BoldItal]
+f=nimbus sans
+[NimbusSanL-ReguItal]
+f=nimbus sans
+[NimbusSanL-ReguCond]
+f=nimbus sans condensed
+[NimbusSanL-BoldCond]
+f=nimbus sans condensed
+[NimbusRomNo9L-Regu]
+f=nimbus roman no9
+[NimbusMonL-Regu]
+f=nimbus mono l
+[NimbusMonL-Bold]
+f=nimbus mono l
+[NimbusMonL-BoldObli]
+f=nimbus mono l
+[NimbusMonL-ReguObli]
+f=nimbus mono l
+[URWPalladioL-Roma]
+f=palladio
+[URWPalladioL-Bold]
+f=palladio
+[URWChanceryL-MediItal]
+f=chancery
