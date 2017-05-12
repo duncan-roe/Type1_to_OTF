@@ -20,3 +20,15 @@ You need to create a temporary directory somewhere. In the example below, we use
    cd Type1_to_OTF-1.0
    cp FontMenuNameDB makeotf.sh /tmp/t5
    cd /tmp/t5
+   cp /usr/share/fonts/Type1/*.pf{a,b} .
+   ./makeotf.sh
+### As root
+```bash
+   cd /usr/share/fonts/OTF
+   mv /tmp/t5/*.otf .
+   mkfontscale
+   mkfontdir
+   fc-cache -f
+### As a regular user again
+```bash
+  rm -r /tmp/t5
